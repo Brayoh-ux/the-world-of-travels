@@ -1,0 +1,87 @@
+
+div > ul >li{
+    display: inline-block;
+} 
+
+div.one{
+    background-image: url("./images/world.jpg");
+    background-repeat: no-repeat;
+    background-position: fit;
+    min-zoom: 20;   
+    background-size: 200%;
+    padding: 5px;
+    padding-top: 0%;
+
+}
+nav ul li{
+    font-size: xx-large;
+    color: black;
+    drop-shadow: 5px 6px green;
+    box-shadow: 2px 5px 5px green;
+    display: inline-block;
+    padding-right: 10px%;
+    border-right: 5px;
+}
+nav ul li:hover{
+    box-shadow: 2px 5px 5px black;
+}
+div.fram1 h3{
+    display: inline-block;
+    font-family: monospace;
+    font-color: white;
+    padding-right: 3px;
+}
+div.fram1 h1{
+    font-size: xx-large;
+    color: white;
+    background-color: skyblue;
+    stroke-width: 1px;
+    padding-right: 3px;
+    left: 30px;
+}
+div.fram2{
+    background-image: url("./images/bck.jpg");
+}
+div.fram2 h1{
+    color: whitesmoke;
+    box-shadow: 2px 4px 5px black;
+}
+div.fram2 > h1 > a{
+    color: blanchedalmond;
+}
+div.fram2 > h3{
+    display: inline-block;
+    padding-right: 40%;
+}
+div.fram2 > ul > li{
+    color: blanchedalmond;
+}
+div.frame3{
+    background-image: url("./images/water.jpg");
+    background-position: fit;
+    background-color: skyblue;
+}
+div.frame3 > h1 >a{
+    color: black;
+    background-color: blue;
+    box-shadow: 2px 5px 5px black;
+}
+div.frame4{
+    background-image: url("./images/best-backgrounds-9.jpg");
+}
+}div.frame4 > h1 >a{
+    color: black;
+    background-color: blue;
+    box-shadow: 2px 5px 5px black;
+}
+div.frame4 > p{
+    color: white;
+    font-size: medium;
+    position: static;
+    text-shadow: blue;
+    padding-right: 50%;
+}
+div.done{
+    padding-right: 50%;
+    float: right;
+}
